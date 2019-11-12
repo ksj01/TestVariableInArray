@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  TestVariableInArray.cpp
+d:\visual studio 2017\projects\testvariableinarray\testvariableinarray\testvariableinarray.cpp(15): error C2131: expression did not evaluate to a constant
+  d:\visual studio 2017\projects\testvariableinarray\testvariableinarray\testvariableinarray.cpp(15): note: failure was caused by a read of a variable outside its lifetime
+  d:\visual studio 2017\projects\testvariableinarray\testvariableinarray\testvariableinarray.cpp(15): note: see usage of 'name_length'
+d:\visual studio 2017\projects\testvariableinarray\testvariableinarray\testvariableinarray.cpp(16): error C3863: array type 'char [name_length]' is not assignable
+d:\visual studio 2017\projects\testvariableinarray\testvariableinarray\testvariableinarray.cpp(18): warning C4552: '<<': operator has no effect; expected operator with side-effect
